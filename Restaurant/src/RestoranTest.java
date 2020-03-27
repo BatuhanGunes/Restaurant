@@ -8,6 +8,7 @@ public class RestoranTest {
 		Kullanici k2 = new Kullanici("Veli Deli", Kullanici.MUSTERI,4);
 		
 		k.setKisiSayisi(5);
+		k2.setKisiSayisi(3);
 		
 		Restoran restoran = new Restoran("Urfali bilmemne", 4, 5, 7);
 		
