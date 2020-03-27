@@ -1,4 +1,4 @@
-**Dil :** [English](https://github.com/BatuhanGunes/Restaurant/edit/master/README.md) / Turkish
+**Dil :** [English](https://github.com/BatuhanGunes/Restaurant) / Turkish
 
 # Restaurant
 
